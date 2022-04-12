@@ -5,7 +5,7 @@
 install
 lang en_US.UTF-8
 keyboard --vckeymap=us --xlayouts='us'
-timezone Asia/Rangoon --isUtc
+timezone Asia/Kolkatta --isUtc
 auth --useshadow --passalgo=sha512 			# CIS 5.3.4
 firewall --enabled
 services --enabled=NetworkManager,sshd
